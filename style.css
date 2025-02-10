@@ -1,0 +1,13 @@
+#lamb {
+  bottom: 50px;
+  left: 50px;
+  width: 100px;
+  height: auto;
+}
+
+#button {
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: auto;
+}
